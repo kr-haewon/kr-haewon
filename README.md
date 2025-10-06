@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 * Name: Haewon Park
 * University: Information Communication&Enginerring, Yeungnam Univ
-* Interested in: ### ![Network](https://img.shields.io/badge/Network-0059B2?style=for-the-badge&logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E8396D?style=for-the-badge&logo=linux&logoColor=white)
+* Interested in: ![Network](https://img.shields.io/badge/Network-0059B2?style=for-the-badge&logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E8396D?style=for-the-badge&logo=linux&logoColor=white)
