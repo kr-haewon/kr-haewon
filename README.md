@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Haewon's%20story&fontSize=90)
+### Information
+
+* Name: Haewon Park
+* University: Information Communication&Enginerring, Yeungnam Univ
+* Interested in: ### 🛠️ 관심 분야
+
+![Network](https://img.shields.io/badge/Network-0059B2?style=for-the-badge&logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E8396D?style=for-the-badge&logo=linux&logoColor=white)
