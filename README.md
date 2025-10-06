@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Information
 
 * Name: Haewon Park
-* Major: Information Communication&Enginerring
+* Major: Information Communication&Engineering
 * Interested in: ![Network](https://img.shields.io/badge/Network-0059B2?style=for-the-badge&logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E8396D?style=for-the-badge&logo=linux&logoColor=white) ![Embedded](https://img.shields.io/badge/Embedded-000000?style=for-the-badge&logo=intel&logoColor=white) ![Video Signal Processing](https://img.shields.io/badge/Video%20Signal%20Processing-FF0000?style=for-the-badge&logo=opencv&logoColor=white)
